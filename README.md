@@ -24,7 +24,7 @@ This project is under the MIT License.
 
 # Project Structure:
 /ExcelFile: Contains the Excel file for sales data analysis.
-Contact: +91 9591803813
+Contact: 9591803813
 darshansuresh1804@gmail.com
 For questions or suggestions, open an issue on GitHub.
 
