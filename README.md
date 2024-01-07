@@ -1,7 +1,7 @@
 # excel-pivot-analysis
 GitHub repository for an Excel pivot sales data analysis project.
 
-# Project Title: ExcelSalesDataAnalysis
+# Project Title: ExcelSalesDataAnalysis 
 
 # Overview:
 Effortlessly analyze your sales data with this Excel-based tool. Utilizing pivot tables, gain quick insights into product performance, customer behavior, and sales trends.
