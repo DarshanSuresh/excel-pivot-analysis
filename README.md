@@ -10,7 +10,7 @@ Effortlessly analyze your sales data with this Excel-based tool. Utilizing pivot
 Pivot tables for dynamic data exploration.
 Granular sales breakdown by product categories, time periods, and customer segments.
 Streamlined visualization of sales patterns.
- 
+
 # Usage:
 Download the Excel file.
 Import your sales data.
